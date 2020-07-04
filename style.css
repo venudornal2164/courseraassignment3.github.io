@@ -1,0 +1,29 @@
+.text1{
+    background-color: darkslategray;
+    padding: 15px;
+    color: chartreuse;
+}
+.container1{
+    text-align:center;
+    color: black;
+}
+.container1 h2{
+    color: deeppink;
+}
+.text{
+    text-align:center;
+    padding: 5px;
+    background-color: darkslategray;
+    color: white;
+}
+@media(max-width: 768px) {
+    . {
+        flex-direction: column;
+    }
+    .main-nav p{
+        margin-top: 10px;
+
+    }
+
+
+}
